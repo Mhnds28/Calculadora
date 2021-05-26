@@ -1,0 +1,10 @@
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Marco\OneDrive\Arquivos\Documentos\Visual Studio 2019\Calculadora\obj\Debug\Calculadora.pdb
