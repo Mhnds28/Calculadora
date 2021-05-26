@@ -117,6 +117,7 @@ namespace Calculadora
             this.button5.TabIndex = 6;
             this.button5.Text = "-";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -146,6 +147,7 @@ namespace Calculadora
             this.button8.TabIndex = 9;
             this.button8.Text = "+";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
@@ -155,6 +157,7 @@ namespace Calculadora
             this.button9.TabIndex = 10;
             this.button9.Text = "x";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -164,6 +167,7 @@ namespace Calculadora
             this.button10.TabIndex = 11;
             this.button10.Text = "/";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button12
             // 
@@ -223,6 +227,7 @@ namespace Calculadora
             this.button17.TabIndex = 18;
             this.button17.Text = "CE";
             this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
             // button18
             // 
@@ -232,6 +237,7 @@ namespace Calculadora
             this.button18.TabIndex = 19;
             this.button18.Text = "C";
             this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.button18_Click);
             // 
             // button19
             // 
